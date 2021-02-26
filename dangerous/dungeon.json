@@ -31,7 +31,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/workadventure\/map.json"
+                 "value":"..\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
