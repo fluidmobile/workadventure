@@ -45,6 +45,12 @@
          "id":2,
          "name":"floor",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"..\/dangerous\/lttp.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":16,
