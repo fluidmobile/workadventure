@@ -161,8 +161,30 @@
          "tilewidth":16
         }, 
         {
+         "columns":2,
          "firstgid":225,
-         "source":"fluidLogo.json"
+         "image":"fluid_logo.png",
+         "imageheight":32,
+         "imagewidth":32,
+         "margin":0,
+         "name":"fluidLogo",
+         "spacing":0,
+         "tilecount":4,
+         "tileheight":16,
+         "tilewidth":16
+        }, 
+        {
+         "columns":16,
+         "firstgid":229,
+         "image":"zelda.png",
+         "imageheight":224,
+         "imagewidth":256,
+         "margin":0,
+         "name":"zelda",
+         "spacing":0,
+         "tilecount":224,
+         "tileheight":16,
+         "tilewidth":16
         }],
  "tilewidth":16,
  "type":"map",
