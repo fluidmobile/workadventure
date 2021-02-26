@@ -122,6 +122,12 @@
          "id":6,
          "name":"fluidLogo",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.fluidmobile.de"
+                }],
          "type":"tilelayer",
          "visible":false,
          "width":16,
